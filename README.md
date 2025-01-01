@@ -12,4 +12,5 @@ Then I tested my configuration and enabled it using commands,
 "sudo ln -s /etc/nginx/sites-available/timmees-skincare.com /etc/nginx/sites-enabled/,sudo nginx -t,sudo systemctl reload nginx"
 and I ensured my permissions were set for nginx to be able to read my file using commands,"sudo chown -R www-data:www-data /var/www/timmees-skincare.com
 sudo chmod -R 755 /var/www/timmees-skincare.com"
-after I was done I updated my 
+after I was done I updated my firewall to allow HTTP traffic using command "sudo ufw allow 'Nginx Full',sudo ufw enable"
+my webpage can currently only be accessed via the IP server address, which is in this repository 
