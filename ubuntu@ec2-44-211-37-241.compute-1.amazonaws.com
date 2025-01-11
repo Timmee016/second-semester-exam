@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to TIMMEE'S SKINCA</title>
+    <title>Welcome to TIMMEE'S SKINCARE</title>
 </head>
 <body>
-    <h1>Welcome to TIMMEE'S SKIN team's page</h1>
+    <h1>Welcome to TIMMEE'S SKINCARE team's page</h1>
     
     <h2>About Us</h2>
     <p>We are Timmee's closet, a passionate group of professionals dedicated to helping you order your your dream skincare proucts from multiple international countries at manufacturers prices. Our goal is to provide importing services of koarean skincare to help make a beautiful and healtyh impact on your skin and body and a meaningful in our industry.</p>
