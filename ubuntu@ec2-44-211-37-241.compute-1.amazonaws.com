@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to TIMMEE'S SKINCARE</title>
+    <title>Welcome to TIMMEE'S SKINCA</title>
 </head>
 <body>
     <h1>Welcome to TIMMEE'S SKINCARE team's page</h1>
